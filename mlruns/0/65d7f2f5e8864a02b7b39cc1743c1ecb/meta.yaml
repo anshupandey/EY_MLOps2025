@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/65d7f2f5e8864a02b7b39cc1743c1ecb/artifacts
+end_time: 1740549062328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65d7f2f5e8864a02b7b39cc1743c1ecb
+run_name: inquisitive-bug-746
+run_uuid: 65d7f2f5e8864a02b7b39cc1743c1ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740549031378
+status: 3
+tags: []
+user_id: labuser

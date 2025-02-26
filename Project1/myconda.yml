@@ -3,3 +3,7 @@ dependencies:
   - mlflow
   - pandas
   - scikit-learn
+  - psutil
+  - numpy
+  - matplotlib
+  - shap

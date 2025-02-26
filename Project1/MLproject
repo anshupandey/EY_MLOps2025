@@ -1,7 +1,6 @@
 name: Customer Churn Prediction
 conda_env: myconda.yml
 
-
 entry_points:
     main:
         parameters:

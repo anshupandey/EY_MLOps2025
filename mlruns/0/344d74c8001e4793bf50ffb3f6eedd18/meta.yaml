@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/344d74c8001e4793bf50ffb3f6eedd18/artifacts
+end_time: 1740548998489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 344d74c8001e4793bf50ffb3f6eedd18
+run_name: angry-grub-883
+run_uuid: 344d74c8001e4793bf50ffb3f6eedd18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740548994136
+status: 4
+tags: []
+user_id: labuser

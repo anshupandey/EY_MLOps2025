@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/fdac7d3bfbeb49bcb216abc4029a81fd/artifacts
+end_time: 1740548957666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdac7d3bfbeb49bcb216abc4029a81fd
+run_name: enthused-jay-478
+run_uuid: fdac7d3bfbeb49bcb216abc4029a81fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740548952726
+status: 4
+tags: []
+user_id: labuser
