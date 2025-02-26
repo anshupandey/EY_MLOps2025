@@ -1,0 +1,10 @@
+name: Customer Churn Prediction
+conda_env: myconda.yml
+
+
+entry_points:
+    main:
+        parameters:
+            datafile: path
+            max_depth: {type: int,default: 100}
+        command: "python3 main.py --max_depth {max_depth} --data {datafile}"

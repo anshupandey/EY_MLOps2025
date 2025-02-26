@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/e4d1ed34c2254cbc929a1e0b5b852c6e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4d1ed34c2254cbc929a1e0b5b852c6e
+run_name: angry-dolphin-288
+run_uuid: e4d1ed34c2254cbc929a1e0b5b852c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740546390313
+status: 1
+tags: []
+user_id: labuser

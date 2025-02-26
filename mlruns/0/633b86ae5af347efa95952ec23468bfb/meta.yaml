@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/633b86ae5af347efa95952ec23468bfb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 633b86ae5af347efa95952ec23468bfb
+run_name: bright-skunk-79
+run_uuid: 633b86ae5af347efa95952ec23468bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740546782761
+status: 1
+tags: []
+user_id: labuser

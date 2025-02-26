@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/94184537ee574f59af5be14854f60e02/artifacts
+end_time: 1740547338111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94184537ee574f59af5be14854f60e02
+run_name: flawless-chimp-446
+run_uuid: 94184537ee574f59af5be14854f60e02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740547334043
+status: 4
+tags: []
+user_id: labuser

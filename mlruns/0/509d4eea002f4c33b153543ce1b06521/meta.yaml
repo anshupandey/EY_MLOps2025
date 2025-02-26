@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/509d4eea002f4c33b153543ce1b06521/artifacts
+end_time: 1740547391589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 509d4eea002f4c33b153543ce1b06521
+run_name: bright-frog-15
+run_uuid: 509d4eea002f4c33b153543ce1b06521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740547387226
+status: 3
+tags: []
+user_id: labuser

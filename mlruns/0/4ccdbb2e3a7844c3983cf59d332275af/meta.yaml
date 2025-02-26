@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/4ccdbb2e3a7844c3983cf59d332275af/artifacts
+end_time: 1740547261464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ccdbb2e3a7844c3983cf59d332275af
+run_name: smiling-cub-653
+run_uuid: 4ccdbb2e3a7844c3983cf59d332275af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740547200157
+status: 4
+tags: []
+user_id: labuser

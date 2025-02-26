@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/c9cb57a746d7493ea4b5827b4250fc89/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9cb57a746d7493ea4b5827b4250fc89
+run_name: welcoming-rook-42
+run_uuid: c9cb57a746d7493ea4b5827b4250fc89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740546409665
+status: 1
+tags: []
+user_id: labuser

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/1d611cfb39844deb971333ccc973a434/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d611cfb39844deb971333ccc973a434
+run_name: suave-perch-582
+run_uuid: 1d611cfb39844deb971333ccc973a434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740546923694
+status: 1
+tags: []
+user_id: labuser

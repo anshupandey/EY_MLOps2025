@@ -1,0 +1,5 @@
+name: testenv
+dependencies:
+  - mlflow
+  - pandas
+  - scikit-learn

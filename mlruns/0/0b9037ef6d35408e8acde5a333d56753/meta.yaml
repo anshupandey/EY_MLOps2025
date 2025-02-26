@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/0b9037ef6d35408e8acde5a333d56753/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b9037ef6d35408e8acde5a333d56753
+run_name: unique-donkey-155
+run_uuid: 0b9037ef6d35408e8acde5a333d56753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740546501991
+status: 1
+tags: []
+user_id: labuser
