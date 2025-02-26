@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/574222760838341269/821094cee5fc472e89c9baf27ebda86a/artifacts
+end_time: 1740459831049
+entry_point_name: ''
+experiment_id: '574222760838341269'
+lifecycle_stage: active
+run_id: 821094cee5fc472e89c9baf27ebda86a
+run_name: rogue-lynx-608
+run_uuid: 821094cee5fc472e89c9baf27ebda86a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740459823839
+status: 3
+tags: []
+user_id: labuser

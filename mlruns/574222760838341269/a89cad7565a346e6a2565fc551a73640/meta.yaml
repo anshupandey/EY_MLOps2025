@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/574222760838341269/a89cad7565a346e6a2565fc551a73640/artifacts
+end_time: 1740461280479
+entry_point_name: ''
+experiment_id: '574222760838341269'
+lifecycle_stage: active
+run_id: a89cad7565a346e6a2565fc551a73640
+run_name: vaunted-cat-468
+run_uuid: a89cad7565a346e6a2565fc551a73640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740461275180
+status: 3
+tags: []
+user_id: labuser

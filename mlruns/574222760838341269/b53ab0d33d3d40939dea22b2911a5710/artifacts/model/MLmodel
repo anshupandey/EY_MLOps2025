@@ -1,0 +1,32 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+is_signature_from_type_hint: false
+mlflow_version: 2.20.2
+model_size_bytes: 1050
+model_uuid: 7fd12ee631934b99932ebb9a06de575d
+run_id: b53ab0d33d3d40939dea22b2911a5710
+signature:
+  inputs: '[{"type": "double", "name": "encoder__Geography_Germany", "required": true},
+    {"type": "double", "name": "encoder__Geography_Spain", "required": true}, {"type":
+    "double", "name": "encoder__Gender_Male", "required": true}, {"type": "double",
+    "name": "scaler__CreditScore", "required": true}, {"type": "double", "name": "scaler__Age",
+    "required": true}, {"type": "double", "name": "scaler__Balance", "required": true},
+    {"type": "double", "name": "scaler__NumOfProducts", "required": true}, {"type":
+    "double", "name": "remainder__IsActiveMember", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-02-25 05:26:42.574937'

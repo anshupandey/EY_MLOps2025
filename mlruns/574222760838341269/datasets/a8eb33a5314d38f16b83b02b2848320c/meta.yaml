@@ -1,0 +1,13 @@
+digest: f4fa4c75
+name: dataset
+profile: '{"num_rows": 8000, "num_elements": 64000}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "encoder__Geography_Germany",
+  "required": true}, {"type": "double", "name": "encoder__Geography_Spain", "required":
+  true}, {"type": "double", "name": "encoder__Gender_Male", "required": true}, {"type":
+  "double", "name": "scaler__CreditScore", "required": true}, {"type": "double", "name":
+  "scaler__Age", "required": true}, {"type": "double", "name": "scaler__Balance",
+  "required": true}, {"type": "double", "name": "scaler__NumOfProducts", "required":
+  true}, {"type": "double", "name": "remainder__IsActiveMember", "required": true}]}'
+source: '{"tags": {"mlflow.user": "labuser", "mlflow.source.name": "/home/labuser/anaconda3/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

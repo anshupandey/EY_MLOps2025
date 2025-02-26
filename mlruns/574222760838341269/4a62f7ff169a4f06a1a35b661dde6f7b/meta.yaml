@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/574222760838341269/4a62f7ff169a4f06a1a35b661dde6f7b/artifacts
+end_time: 1740464965686
+entry_point_name: ''
+experiment_id: '574222760838341269'
+lifecycle_stage: active
+run_id: 4a62f7ff169a4f06a1a35b661dde6f7b
+run_name: Anshu_BCM_687
+run_uuid: 4a62f7ff169a4f06a1a35b661dde6f7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740464956215
+status: 3
+tags: []
+user_id: labuser
