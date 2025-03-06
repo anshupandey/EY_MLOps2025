@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/1d8f85fc56b64e9b907ff79896cb7927/artifacts
+end_time: 1740639344741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d8f85fc56b64e9b907ff79896cb7927
+run_name: upset-zebra-988
+run_uuid: 1d8f85fc56b64e9b907ff79896cb7927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740639339531
+status: 4
+tags: []
+user_id: labuser

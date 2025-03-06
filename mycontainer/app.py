@@ -8,11 +8,6 @@ app = Flask(__name__)
 model_name="CPM001"
 alias = 'stagging'
 
-import mlflow.artifacts
-mlflow.artifacts.download_artifacts(artifact_uri=f"models:/{model_name}@{alias}/requirements.txt",dst_path="./")
-import subprocess
-subprocess.run(['pip','install', '-r', 'requirements.txt'])
-
 model = mlflow.pyfunc.load_model(f"models:/{model_name}@{alias}")
 
 @app.route("/get_schema")

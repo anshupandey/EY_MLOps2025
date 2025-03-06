@@ -3,14 +3,17 @@ import pandas as pd
 import mlflow, mlflow.sklearn
 import json
 
-
+mlflow.set_tracking_uri(uri="http://4.188.75.152:5000/")
 app = Flask(__name__)
-
 model_name="CPM001"
 alias = 'stagging'
 
-model = mlflow.pyfunc.load_model(f"models:/{model_name}@{alias}")
+import mlflow.artifacts
+mlflow.artifacts.download_artifacts(artifact_uri=f"models:/{model_name}@{alias}/requirements.txt",dst_path="./")
+import subprocess
+subprocess.run(['pip','install', '-r', 'requirements.txt'])
 
+model = mlflow.pyfunc.load_model(f"models:/{model_name}@{alias}")
 
 @app.route("/get_schema")
 def func1():
@@ -33,4 +36,4 @@ def func2():
     return json.dumps(data)
 
 if __name__=="__main__":
-    app.run(debug=True,port=8000)
+    app.run(debug=False,port=8000,host="0.0.0.0")

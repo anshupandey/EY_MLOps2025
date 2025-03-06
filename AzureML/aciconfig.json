@@ -1,0 +1,11 @@
+
+{
+    "computeType":"aci",
+    "containerResourceRequirement":
+    {
+        "cpu":2,
+        "memoryInGB":4
+    },
+    "location":"eastasia",
+
+}

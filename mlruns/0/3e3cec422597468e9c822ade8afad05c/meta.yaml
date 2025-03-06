@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/3e3cec422597468e9c822ade8afad05c/artifacts
+end_time: 1740640360943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e3cec422597468e9c822ade8afad05c
+run_name: bold-lamb-566
+run_uuid: 3e3cec422597468e9c822ade8afad05c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740640312531
+status: 4
+tags: []
+user_id: labuser

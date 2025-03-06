@@ -1,6 +1,7 @@
 aliases:
+  production: '2'
   stagging: '1'
 creation_timestamp: 1740467919944
 description: ''
-last_updated_timestamp: 1740468548275
+last_updated_timestamp: 1740627952752
 name: CPM001

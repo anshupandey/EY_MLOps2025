@@ -9,6 +9,9 @@ from sklearn.model_selection import train_test_split
 from sklearn import tree    
 from mlflow.models import infer_signature
 
+mlflow.set_tracking_uri(uri="http://4.188.75.152:5000")
+mlflow.set_experiment("Banking_Churn")
+
 def dataloader():
     url = "https://raw.githubusercontent.com/anshupandey/Machine_Learning_Training/refs/heads/master/datasets/Bank_churn_modelling.csv"
     df = pd.read_csv(url)
@@ -45,10 +48,8 @@ def main():
 
     eval_data = x_test
     eval_data['label'] = y_test
-
-    mlflow.sklearn.autolog()
     mlflow.enable_system_metrics_logging()
-    with mlflow.start_run(run_name="Anshu_BCM_"+str(np.random.randint(1000)),log_system_metrics=True) as run:
+    with mlflow.start_run(run_name="Anshu_BCM_"+str(np.random.randint(1000)),log_system_metrics=True):
         # create a model object using class LogisticRegression
         model = tree.DecisionTreeClassifier(random_state=5, max_depth=max_depth, min_samples_leaf=20)
 

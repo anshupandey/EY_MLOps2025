@@ -1,0 +1,15 @@
+artifact_uri: file:///home/labuser/Desktop/EY_MLOps2025/mlruns/0/023aa13b56c84f18b73df3f79976269d/artifacts
+end_time: 1740639179263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 023aa13b56c84f18b73df3f79976269d
+run_name: exultant-kit-505
+run_uuid: 023aa13b56c84f18b73df3f79976269d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740639112277
+status: 4
+tags: []
+user_id: labuser
