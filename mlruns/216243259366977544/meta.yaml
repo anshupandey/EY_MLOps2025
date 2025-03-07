@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/216243259366977544
+creation_time: 1741319706486
+experiment_id: '216243259366977544'
+last_update_time: 1741319706486
+lifecycle_stage: active
+name: telecom_price_prediction

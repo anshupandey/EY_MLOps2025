@@ -1,0 +1,27 @@
+{
+    "model_monitoring": {
+        "metrics": {
+            "accuracy_threshold": 0.95,
+            "latency_threshold": 100,
+            "prediction_drift_threshold": 0.1,
+            "data_drift_threshold": 0.05
+        },
+        "monitoring_frequency": {
+            "performance": "hourly",
+            "drift": "daily",
+            "data_quality": "hourly"
+        },
+        "alerts": {
+            "email": {
+                "enabled": true,
+                "recipients": [
+                    "team@example.com"
+                ]
+            },
+            "slack": {
+                "enabled": false,
+                "channel": "#model-alerts"
+            }
+        }
+    }
+}
